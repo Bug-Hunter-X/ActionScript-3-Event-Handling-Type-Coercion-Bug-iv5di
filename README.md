@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 bug related to type coercion when handling events. The `event.target` property might not be of the expected type, leading to runtime errors. The `Bug.as` file showcases the problematic code, and `BugSolution.as` provides a corrected version with robust type checking and error handling.
